@@ -1,6 +1,9 @@
-# Go Websocket Chat Example Using [GB](https://github.com/constabulary/gb)
+# getcomposer.org sources
 
-This is a simple application that serves tasty WebSockets to your users
-with Go + Redis (used so that the app can scale beyond 1 dyno).
+## Contribute
 
-Only deployable via 
+To contribute to the docs, fork the composer/composer repository and add or
+change a file in the doc directory. Documentation sources can be browsed
+at https://github.com/composer/composer/tree/master/doc
+
+Documentation is then automatically generated on getcomposer.org
